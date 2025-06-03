@@ -12,4 +12,7 @@ The goal of this project is to get familiar with basic HTML, CSS, Javascirpt and
 
 # How to run
 1. Clone this repository to your computer.
+<<<<<<< HEAD
+2. Open the 'index.html' file any web browser.
+=======
 2. Open the 'index.html' file any web browser.
